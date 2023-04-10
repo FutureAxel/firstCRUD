@@ -8,7 +8,7 @@ login with it.
 It was a final proyect during the FULL STACK with JAVA course in Codo a Codo program from Argentina using Eclipse IDE.
 Unfortunately I can not deploy this for free.
 
-To try it, you need to have installed the Eclipse IDE, make a new Maven proyect using the archetypes for web and confugure the Tomcat server.
+To try it, you need to have installed the Eclipse IDE, make a new Maven proyect using the archetypes for web and configure the Tomcat server.
 Once you do this, replace the MAIN folder from this repository with the one in the proyect.
 After this, you have to import the DB that I provide you, called CACPROYECTO.
 
